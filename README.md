@@ -6,7 +6,8 @@ node index.js --action="list"
 # Получаем контакт по id
 
 node index.js --action="get" --id=5
-![detByID](screenshots/getByID.jpg)
+
+![getByID](screenshots/getByID.jpg)
 
 # Добавялем контакт
 
